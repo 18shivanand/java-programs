@@ -1,7 +1,7 @@
 import java.util.*;
 import java.util.Scanner;
 
-public class Complex
+public class Prog1
 {
     int real, imaginary;
 

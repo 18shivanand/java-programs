@@ -84,7 +84,7 @@ class College{
    
 
 
-public class Labtwo {
+public class Prog2 {
 
 	public static void main(String[] args) {
 	        Scanner sc= new Scanner(System.in);

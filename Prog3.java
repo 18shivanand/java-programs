@@ -74,7 +74,7 @@ class cylinder extends circle{
     }
 
 }
-public class Lab3{
+public class Prog3{
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         cylinder[] c = new cylinder[4];
